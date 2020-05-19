@@ -1,0 +1,23 @@
+* {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+.font-family {
+    font-family: "Lucida Grande", "Lucida Sans Unicode", Helvetica, Arial, Verdana, sans-serif;
+}
+
+.nav-container {
+    display: grid;
+    grid-template-columns: repeat(9, minmax(104px, auto));
+    grid-auto-rows: minmax(80%, auto);
+    background-color: #707070;
+    width: 80%;
+    margin: 0 auto;
+    border: 1px solid red;
+}
+
+.nav-container a {
+    color: white;
+}
