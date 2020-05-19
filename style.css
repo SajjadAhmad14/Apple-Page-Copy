@@ -1,3 +1,4 @@
+/* box-sizing is used to stop browser adding padding and border to width */
 * {
     -webkit-box-sizing: border-box;
     -moz-box-sizing: border-box;
