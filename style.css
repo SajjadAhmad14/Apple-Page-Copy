@@ -9,14 +9,22 @@
     font-family: "Lucida Grande", "Lucida Sans Unicode", Helvetica, Arial, Verdana, sans-serif;
 }
 
+.background-container {
+    background-image: url("images/your_verse_hero_2x_resized.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center top;
+}
+
+
 .nav-container {
     display: grid;
     grid-template-columns: repeat(9, minmax(104px, auto));
     grid-auto-rows: minmax(80%, auto);
     background-color: #707070;
     width: 80%;
-    margin: 0 auto;
-    border: 1px solid red;
+    margin: auto;
+    margin-top: 20px;
 }
 
 .nav-container a {
