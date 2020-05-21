@@ -22,9 +22,9 @@
 
 ### To Clone And Use Project Files
 - Please go to my github repo: https://github.com/SajjadAhmad14/Apple-Page-Copy
--Clone the project in your local machine
--Feel free to use it
--Please give me your kind feedback as well.
+- Clone the project in your local machine
+- Feel free to use it
+- Please give me your kind feedback as well.
 
 
 ## Authors
