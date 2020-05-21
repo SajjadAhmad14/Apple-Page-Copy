@@ -1,2 +1,53 @@
-# Apple-Page-Copy
-This Web Page is a Clone Of an Old Apple Page
+# Apple Web Page Clone
+
+> This Web page is developed using HTML and CSS from scratch.
+> HTML5 is used whereever possible to make document sementic.
+> nav bar is styled with CSS Grid and Flex Box.
+>Background-image property is used for background images.
+>nav bar is styled with Gradient.
+
+
+![screenshot](./Apple.png)
+
+
+## Built With
+
+- Html
+- CSS
+
+## Live Demo
+
+[Live Demo Link](https://rawcdn.githack.com/SajjadAhmad14/Apple-Page-Copy/51abcd8489a791f6ad629075cb0b5cda34f2db31/index.html)
+
+
+### To Clone And Use Project Files
+- Please go to my github repo: https://github.com/SajjadAhmad14/Apple-Page-Copy
+-Clone the project in your local machine
+-Feel free to use it
+-Please give me your kind feedback as well.
+
+
+## Authors
+
+👤 **Author1**
+
+- Github: [@githubhandle](https://github.com/SajjadAhmad14)
+- Twitter: [@twitterhandle](https://twitter.com/Sajjad_Ahmad14)
+- Linkedin: [linkedin](https://www.linkedin.com/in/sajjad-ahmad-86102117a/)
+
+
+## 🤝 Contributing
+
+Contributions, issues and feature requests are welcome!
+
+Feel free to check the [issues page](https://github.com/SajjadAhmad14/Apple-Page-Copy/issues).
+
+## Show your support
+
+Give a ⭐️ if you like this project!
+
+## Acknowledgments
+
+- Hat tip to anyone whose code was used
+- Inspiration
+- etc
