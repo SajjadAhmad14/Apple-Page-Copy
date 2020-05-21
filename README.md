@@ -7,7 +7,7 @@
 >nav bar is styled with Gradient.
 
 
-![screenshot](./Apple.png)
+![screenshot](https://github.com/SajjadAhmad14/Apple-Page-Copy/blob/development/images/Apple.png)
 
 
 ## Built With
@@ -31,9 +31,9 @@
 
 👤 **Author1**
 
-- Github: [@githubhandle](https://github.com/SajjadAhmad14)
-- Twitter: [@twitterhandle](https://twitter.com/Sajjad_Ahmad14)
-- Linkedin: [linkedin](https://www.linkedin.com/in/sajjad-ahmad-86102117a/)
+- Github: [https://github.com/SajjadAhmad14]
+- Twitter: [https://twitter.com/Sajjad_Ahmad14]
+- Linkedin: [https://www.linkedin.com/in/sajjad-ahmad-86102117a/]
 
 
 ## 🤝 Contributing
