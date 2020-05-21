@@ -6,12 +6,11 @@
 }
 
 .font-family {
-  font-family: "Lucida Grande", "Lucida Sans Unicode", Helvetica, Arial, Verdana,
-    sans-serif;
+  font-family: "Lucida Grande", "Lucida Sans Unicode", Helvetica, Arial, Verdana, sans-serif;
 }
 
 .background-container {
-  background-image: url("images/your_verse_hero_2x_resized.jpg");
+  background-image: url("images/resized.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: bottom;
@@ -27,7 +26,7 @@
   background-image: linear-gradient(#696969, #696969);
   width: 69%;
   position: absolute;
-  top: 87px;
+  top: 100px;
   left: 200px;
   border-radius: 5px;
 }
