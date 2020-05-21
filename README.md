@@ -7,7 +7,7 @@
 >nav bar is styled with Gradient.
 
 
-![screenshot](https://github.com/SajjadAhmad14/Apple-Page-Copy/blob/development/images/Apple.png)
+![screenshot](https://raw.githubusercontent.com/SajjadAhmad14/Apple-Page-Copy/development/images/Apple.png)
 
 
 ## Built With
@@ -17,7 +17,7 @@
 
 ## Live Demo
 
-[Live Demo Link](https://rawcdn.githack.com/SajjadAhmad14/Apple-Page-Copy/51abcd8489a791f6ad629075cb0b5cda34f2db31/index.html)
+[Live Demo Link](https://rawcdn.githack.com/SajjadAhmad14/Apple-Page-Copy/cfaf7bbb3791e8cefe9b1cddf8cd9ac4d4b221e0/index.html)
 
 
 ### To Clone And Use Project Files
