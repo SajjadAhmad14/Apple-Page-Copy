@@ -10,7 +10,7 @@
 }
 
 .background-container {
-  background-image: url("images/resized.jpg");
+  background-image: url("./images/resized.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: bottom;
@@ -60,7 +60,7 @@
 #search {
   width: 106px;
   background-color: grey;
-  background-image: url("images/search-white-18dp (1).svg");
+  background-image: url("./images/search-white-18dp (1).svg");
   background-repeat: no-repeat;
   border: 2px solid grey;
   border-radius: 10px;
@@ -73,18 +73,23 @@
 #search:focus {
   width: 160px;
   background-color: white;
-  background-image: url("images/search-24px.svg");
+  background-image: url("./images/search-24px.svg");
   background-size: 30px 20px;
   background-position: center left;
 }
 
 .side {
   display: flex;
+  width: 100%;
+  margin: auto;
 }
 
-.side img {
+.items img {
+  min-width: 100%;
   max-width: 100%;
-  height: auto;
+  min-height: 100%;
+  max-height: auto;
+
 }
 
 .text-images {
@@ -108,6 +113,8 @@
   font-size: 10px;
   font-weight: 400px;
   width: 87%;
+  margin-right: auto;
+  margin-left: auto;
 }
 
 .footer-container a {
