@@ -6,7 +6,8 @@
 }
 
 .font-family {
-  font-family: "Lucida Grande", "Lucida Sans Unicode", Helvetica, Arial, Verdana, sans-serif;
+  font-family: "Lucida Grande", "Lucida Sans Unicode", Helvetica, Arial, Verdana,
+    sans-serif;
 }
 
 .background-container {
@@ -89,12 +90,11 @@
   max-width: 100%;
   min-height: 100%;
   max-height: auto;
-
 }
 
 .text-images {
   position: absolute;
-  top: 130px;
+  top: 160px;
   left: 200px;
 }
 
