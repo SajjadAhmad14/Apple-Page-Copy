@@ -85,6 +85,10 @@
   margin: auto;
 }
 
+.items {
+  flex: 1;
+}
+
 .items img {
   min-width: 100%;
   max-width: 100%;
