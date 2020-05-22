@@ -17,7 +17,7 @@
 
 ## Live Demo
 
-[Live Demo Link](https://rawcdn.githack.com/SajjadAhmad14/Apple-Page-Copy/1ab248ac9d440bbf3e175caf094c88b97c5c146d/index.html)
+[Live Demo Link](https://rawcdn.githack.com/SajjadAhmad14/Apple-Page-Copy/ec2ad2a415e7860f98a6791ec835ee2d0c9e26b0/index.html)
 
 
 ### To Clone And Use Project Files
